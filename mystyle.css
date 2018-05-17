@@ -1,0 +1,19 @@
+header{
+	background-color: red;
+	color : white;
+	font-size: 25pt;
+	font-weight:  700;
+}
+
+.thumbnail{
+	position: absolute;
+	top: 15px;
+	bottom: 0px;
+	left: 15px;
+	right: 0px;
+	text-align: center;
+	padding-top: calc(50% - 30px);
+}
+.dummy{
+	margin-top: 100%;
+}
